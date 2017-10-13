@@ -1,6 +1,6 @@
 applications:
-- name:      valerio-todo
-  host:      valerio-todo
+- name:      cretico_todo
+  host:      cretico_todo
   memory:    128M
   services:
   - todo-db 
