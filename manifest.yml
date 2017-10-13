@@ -1,6 +1,6 @@
 applications:
-- name:      cretico_todo
-  host:      cretico_todo
+- name:      creticotodo
+  host:      creticotodo
   memory:    128M
   services:
   - todo-db 
